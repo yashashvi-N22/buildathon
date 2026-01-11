@@ -4,7 +4,7 @@ streamlit>=1.25,<2
 # soundfile>=0.12.1
 language-tool-python>=2.7.1
 numpy>=1.23
-matplotlib>=3.7
+# matplotlib>=3.7
 plotly>=5.15
 # Optional (for in-browser recording UI):
 audio-recorder-streamlit>=0.0.8
