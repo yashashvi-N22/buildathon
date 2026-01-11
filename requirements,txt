@@ -1,6 +1,9 @@
-streamlit==1.29.0
-numpy==1.26.4
-plotly==5.18.0
-language-tool-python==2.7.1
-audio-recorder-streamlit==0.0.8
-
+streamlit
+numpy
+matplotlib
+plotly
+SpeechRecognition
+librosa
+soundfile
+audio-recorder-streamlit
+language-tool-python
