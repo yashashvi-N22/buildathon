@@ -13,7 +13,7 @@ try:
     PLOTLY_AVAILABLE = True
 except Exception:
     PLOTLY_AVAILABLE = False
-import matplotlib.pyplot as plt
+    #import matplotlib.pyplot as plt
 
 # Audio processing
 import librosa
