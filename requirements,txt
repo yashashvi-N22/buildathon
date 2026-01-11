@@ -1,15 +1,6 @@
-streamlit>=1.25,<2
-# SpeechRecognition>=3.10.0
-# librosa>=0.10.1
-# soundfile>=0.12.1
-language-tool-python>=2.7.1
-numpy>=1.23
-# matplotlib>=3.7
-plotly>=5.15
-# Optional (for in-browser recording UI):
-audio-recorder-streamlit>=0.0.8
-
-# Note: For microphone recording on Windows, install PyAudio separately:
-# pip install pipwin && pipwin install pyaudio
-
+streamlit==1.29.0
+numpy==1.26.4
+plotly==5.18.0
+language-tool-python==2.7.1
+audio-recorder-streamlit==0.0.8
 
